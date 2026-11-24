@@ -31,10 +31,10 @@ https://github.com/arnohsu-0930/family-learning-assistant
 
 ## 第二步（進階完整版）：裝好桌面程式 AGY 後貼這一句
 
-如果剛剛 Gemini 確認你的電腦可以安裝免費的 **Google Antigravity（AGY）**，等你裝好並打開桌面新建的資料夾後，把下面這一句貼進 AGY 送出，它就會自動幫你建好 4 個資料夾並把所有出考卷與小遊戲工具一次準備好：
+如果剛剛 Gemini 確認你的電腦可以安裝免費的 **Google Antigravity（AGY）**，等你裝好並打開桌面新建的資料夾後，把下面這一句貼進 AGY 送出，它會先用白話告訴你會獲得什麼與怎麼用，確認後再幫你自動準備好全部資料夾與工具：
 
 ```text
-請幫我讀取 https://github.com/arnohsu-0930/family-learning-assistant 裡的 INSTALL_FOR_AGENTS.md 與 AGENTS.md，照裡面的步驟在背景自動幫我把 4 個資料夾和全部教學工具準備好，完成後用最簡單的白話告訴我可以用來做什麼，並給我數字選單馬上試試看！
+請幫我讀取 https://github.com/arnohsu-0930/family-learning-assistant 裡的 INSTALL_FOR_AGENTS.md 與 AGENTS.md，先用 30 秒最簡單的白話告訴我等一下會獲得什麼、平常怎麼使用，等我確認後再幫我在背景把 4 個資料夾和全部教學工具準備好，完成後給我數字選單馬上試試看！
 ```
 
 *(如果是在學校／公司不能裝軟體的電腦，完全不需要做第二步，直接在 Gemini 裡照 [《00_新手從零開始指南》情境 B](./00_新手從零開始指南.md#情境-b學校公司電腦權限被鎖不能裝軟體只能開瀏覽器免安裝-3-招) 就能用囉！)*
